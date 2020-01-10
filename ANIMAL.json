@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "sci_name": "Meles meles",
+    "common_name": "European badger",
+    "email": "kcraft0@creativecommons.org",
+    "endanger_level": 3,
+    "image_url": null
+  },
+  {
+    "id": 2,
+    "sci_name": "Lutra canadensis",
+    "common_name": "Otter, north american river",
+    "email": "fwilson1@ucoz.ru",
+    "endanger_level": 6,
+    "image_url": null
+  },
+  {
+    "id": 3,
+    "sci_name": "Sula nebouxii",
+    "common_name": "Booby, blue-footed",
+    "email": "clawling2@artisteer.com",
+    "endanger_level": 7,
+    "image_url": null
+  },
+  {
+    "id": 4,
+    "sci_name": "Phalacrocorax varius",
+    "common_name": "Pied cormorant",
+    "email": "edomnick3@ucoz.ru",
+    "endanger_level": 1,
+    "image_url": null
+  },
+  {
+    "id": 5,
+    "sci_name": "Graspus graspus",
+    "common_name": "Crab, sally lightfoot",
+    "email": "dheining4@sina.com.cn",
+    "endanger_level": 5,
+    "image_url": null
+  },
+  {
+    "id": 6,
+    "sci_name": "Ploceus rubiginosus",
+    "common_name": "Weaver, chestnut",
+    "email": "lgabotti5@cisco.com",
+    "endanger_level": 6,
+    "image_url": null
+  },
+  {
+    "id": 7,
+    "sci_name": "Centrocercus urophasianus",
+    "common_name": "Greater sage grouse",
+    "email": "twindaybank6@google.com.au",
+    "endanger_level": 3,
+    "image_url": null
+  },
+  {
+    "id": 8,
+    "sci_name": "Genetta genetta",
+    "common_name": "Genet, common",
+    "email": "eskone7@last.fm",
+    "endanger_level": 1,
+    "image_url": null
+  },
+  {
+    "id": 9,
+    "sci_name": "unavailable",
+    "common_name": "Old world fruit bat (unidentified)",
+    "email": "ahamshaw8@hugedomains.com",
+    "endanger_level": 3,
+    "image_url": null
+  },
+  {
+    "id": 10,
+    "sci_name": "Helogale undulata",
+    "common_name": "Eastern dwarf mongoose",
+    "email": "ccouch9@123-reg.co.uk",
+    "endanger_level": 6,
+    "image_url": null
+  },
+  {
+    "id": 11,
+    "sci_name": "Kobus vardonii vardoni",
+    "common_name": "Puku",
+    "email": "rbassindalea@intel.com",
+    "endanger_level": 6,
+    "image_url": null
+  },
+  {
+    "id": 12,
+    "sci_name": "Gekko gecko",
+    "common_name": "Gecko, tokay",
+    "email": "pszymonwiczb@abc.net.au",
+    "endanger_level": 6,
+    "image_url": null
+  },
+  {
+    "id": 13,
+    "sci_name": "Phalaropus lobatus",
+    "common_name": "Red-necked phalarope",
+    "email": "acottemc@amazon.de",
+    "endanger_level": 1,
+    "image_url": null
+  },
+  {
+    "id": 14,
+    "sci_name": "Tadorna tadorna",
+    "common_name": "Common shelduck",
+    "email": "ybyrkmyrd@zdnet.com",
+    "endanger_level": 1,
+    "image_url": null
+  },
+  {
+    "id": 15,
+    "sci_name": "Tauraco porphyrelophus",
+    "common_name": "Turaco, violet-crested",
+    "email": "rbeckinsalle@cafepress.com",
+    "endanger_level": 4,
+    "image_url": null
+  },
+  {
+    "id": 16,
+    "sci_name": "Phalacrocorax varius",
+    "common_name": "Cormorant, pied",
+    "email": "elaweyf@tripadvisor.com",
+    "endanger_level": 7,
+    "image_url": null
+  },
+  {
+    "id": 17,
+    "sci_name": "Ctenophorus ornatus",
+    "common_name": "Dragon, ornate rock",
+    "email": "vstrongitharmg@dailymotion.com",
+    "endanger_level": 5,
+    "image_url": null
+  },
+  {
+    "id": 18,
+    "sci_name": "Spermophilus parryii",
+    "common_name": "Arctic ground squirrel",
+    "email": "nbysakerh@google.co.uk",
+    "endanger_level": 4,
+    "image_url": null
+  },
+  {
+    "id": 19,
+    "sci_name": "Semnopithecus entellus",
+    "common_name": "Langur, hanuman",
+    "email": "zgheorghei@youku.com",
+    "endanger_level": 3,
+    "image_url": null
+  },
+  {
+    "id": 20,
+    "sci_name": "unavailable",
+    "common_name": "South American meadowlark (unidentified)",
+    "email": "lduggenj@yahoo.co.jp",
+    "endanger_level": 6,
+    "image_url": null
+  },
+  {
+    "id": 21,
+    "sci_name": "Scolopax minor",
+    "common_name": "Woodcock, american",
+    "email": "gvickeryk@xinhuanet.com",
+    "endanger_level": 6,
+    "image_url": null
+  },
+  {
+    "id": 22,
+    "sci_name": "Chauna torquata",
+    "common_name": "Crested screamer",
+    "email": "bsoppettl@studiopress.com",
+    "endanger_level": 5,
+    "image_url": null
+  },
+  {
+    "id": 23,
+    "sci_name": "Myotis lucifugus",
+    "common_name": "Bat, little brown",
+    "email": "lmathetm@ted.com",
+    "endanger_level": 1,
+    "image_url": null
+  },
+  {
+    "id": 24,
+    "sci_name": "Paraxerus cepapi",
+    "common_name": "Squirrel, grey-footed",
+    "email": "dlaverackn@ucoz.ru",
+    "endanger_level": 7,
+    "image_url": null
+  },
+  {
+    "id": 25,
+    "sci_name": "Naja haje",
+    "common_name": "Egyptian viper",
+    "email": "hvanarsdallo@ameblo.jp",
+    "endanger_level": 6,
+    "image_url": null
+  }
+]

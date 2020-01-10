@@ -1,0 +1,11 @@
+{
+  "responseHeader": {
+    "channel": "",
+    "transactionId": "",
+    "success": "true"
+  },
+  "responseBody": {
+    "applicationId": "PRCF2012011",
+    "status": "draft"
+  }
+}
